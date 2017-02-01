@@ -20,4 +20,7 @@ public class example {
   public void firstgit2(){
       System.out.println("Hello git2");
   }
+  public void firstgit3(){
+      System.out.println("Hello git2");
+  }
 }
