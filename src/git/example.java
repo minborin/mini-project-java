@@ -12,5 +12,9 @@ package git;
 public class example {
    public static void main(String[] a){
        System.out.println("Hello world");
+       
    }
+  public void firstgit(){
+      System.out.println("Hello git");
+  }
 }
