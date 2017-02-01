@@ -17,19 +17,5 @@ public class example {
   public void firstgit(){
       System.out.println("Hello git");
   }
-  public void firstgit2(){
-      System.out.println("Hello git2");
-  }
-  public void firstgit3(){
-      System.out.println("Hello git2");
-  }
-  public void firstgit4(){
-      System.out.println("Hello git2");
-  }
-  public void firstgit5(){
-      System.out.println("Hello git2");
-  }
-   public void firstgit6(){
-      System.out.println("Hello git2");
-  }
+ 
 }
