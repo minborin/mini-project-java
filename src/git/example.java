@@ -26,4 +26,7 @@ public class example {
   public void firstgit4(){
       System.out.println("Hello git2");
   }
+  public void firstgit5(){
+      System.out.println("Hello git2");
+  }
 }
